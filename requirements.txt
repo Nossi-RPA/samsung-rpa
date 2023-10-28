@@ -1,0 +1,9 @@
+jupyter
+pyautogui
+pyperclip
+openpyxl
+xlwings
+pillow
+ipykernel
+opencv-python
+pandas
