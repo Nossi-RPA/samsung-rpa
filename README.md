@@ -18,7 +18,7 @@
 
 ### 2. window pc 설정
 + window pc의 경우 추가 설정 필요 반드시 아래 작업이 필요합니다.
-+ 
+
 <img width="1077" alt="스크린샷 2023-10-28 오후 2 35 19" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/49854e46-679e-4d15-bc06-0b9a54f9bbcf">
 <img width="1071" alt="스크린샷 2023-10-28 오후 2 35 42" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/9db95f1d-6e72-49bf-835e-40fe4289b0b8">
 
