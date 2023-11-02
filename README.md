@@ -11,13 +11,17 @@
   + window, MacOS 자신에게 맞는 os 선택 후 다운로드 합니다.
 ### 1. 설치 진행
 + 기본 설정으로 진행합니다. 
-![img](https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/7e2c68a6-c0cd-4d39-8f06-20eed3e4690d)
+![image](https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/cd6cedc4-48c5-453e-b922-78c3bf041006)
+
+
 
 
 ### 2. window pc 설정
 + window pc의 경우 추가 설정 필요 반드시 아래 작업이 필요합니다.
-![img_1](https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/9f6f3a45-7965-45e7-8b52-da60bb53fae1)
-![img_2](https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/4406f8e1-950b-4058-ac88-3d5a6aa6acae)
++ 
+<img width="1077" alt="스크린샷 2023-10-28 오후 2 35 19" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/49854e46-679e-4d15-bc06-0b9a54f9bbcf">
+<img width="1071" alt="스크린샷 2023-10-28 오후 2 35 42" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/9db95f1d-6e72-49bf-835e-40fe4289b0b8">
+
 
 
 ----
@@ -30,19 +34,21 @@
 
 # VS code 환경 설정 하기
 ### 1. Extensions 설치
-<img width="346" alt="image" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/5be98bbb-c2cf-4367-a31c-8e04e16ef74c">
+<img width="346" alt="스크린샷 2023-10-28 오후 3 33 13" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/805d1c88-5945-4c96-9387-12445e233816">
+
 
  + python 설치 
  + python indent 설치
  + Python Extension Pack 설치
 ### 2. Window Command Prompt 선택 
-![img_4](https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/3f0659cb-ea94-45b3-946c-dc02be26f83d)
+<img width="683" alt="스크린샷 2023-10-28 오후 2 46 42" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/085ca217-f5c5-4428-a872-6c1e9128df68">
+
 + ctrl + shift + p
 + `>select default profile`
 + Command Prompt 선택 -> power shell일 경우 실행이 불가능합니다. 
 
 ### 3. python 버전 선택 
-![img_5](https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/8b088dba-45f1-4dae-a34a-53e161446663)
+<img width="608" alt="스크린샷 2023-10-28 오후 2 55 33" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/36648213-2a43-4f80-a552-aad633e19687">
 
 + ctrl + shift + p
 + `>select interpreter`
@@ -50,16 +56,18 @@
 
 
 ### 4. jupyter(ipynb 파일 실행)
-<img width="643" alt="image" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/3955f916-0dc3-4f68-b893-f38cb022b845">
+<img width="643" alt="스크린샷 2023-10-28 오후 3 37 57" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/196b06ba-2a40-46e6-8a01-d3e1b6f2cb1d">
 
 + 파일은 연 뒤 커널 선택 
 + python 환경
-<img width="645" alt="image" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/11be0128-f6e4-438c-b9ce-cc9388badf33">
+  
+<img width="645" alt="스크린샷 2023-10-28 오후 3 38 39" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/6979d784-919a-4c65-9610-7887b99fded6">
+
 
 + `>select interpreter`에서 선택한 버전 선택.
 
 ### 5. 라이브러리 설치 
-<img width="667" alt="image" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/c92e3e48-394f-4715-ac46-42e9a6c86b76">
+ <img width="667" alt="스크린샷 2023-10-28 오후 3 51 30" src="https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/56d9ac41-69ea-4bd4-9198-de1015ba91a8">
 
 + 터미널 -> 새터미널 열기
 + `pip install -r requirements.txt` 
