@@ -9,6 +9,8 @@
 # 아나콘다 설치 
 + [설치 링크](https://www.anaconda.com/download/)
   + window, MacOS 자신에게 맞는 os 선택 후 다운로드 합니다.
+ 
++ [설치 가이드](https://wikidocs.net/165528) 
 ### 1. 설치 진행
 + 기본 설정으로 진행합니다. 
 ![image](https://github.com/Nossi-RPA/samsung-rpa/assets/61634628/cd6cedc4-48c5-453e-b922-78c3bf041006)
