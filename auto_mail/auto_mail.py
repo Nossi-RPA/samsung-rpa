@@ -6,7 +6,7 @@ import pyscreeze
 import PIL
 
 os.chdir(
-    "/Users/nossi/Library/Mobile Documents/com~apple~Keynote/Documents/samsung-lecture-rpa/auto_mail"
+    "/Users/nossi/Desktop/samsung-rpa/auto_mail"
 )
 print(os.getcwd())
 
